@@ -5,7 +5,7 @@
   "keywords": [
     "doctor"
   ],
-  "main": "index.js",
+  "main": "./lib/macaca-doctor",
   "repository": {
     "type": "git",
     "url": "git://github.com/xudafeng/macaca-doctor.git"

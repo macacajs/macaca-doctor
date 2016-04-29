@@ -30,9 +30,3 @@ $ npm i macaca-doctor --save
 ```bash
 $ macaca-doctor
 ```
-
-## License
-
-The MIT License (MIT)
-
-Copyright (c) 2015 xdf
