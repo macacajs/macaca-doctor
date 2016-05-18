@@ -8,7 +8,7 @@
   "main": "./lib/macaca-doctor",
   "repository": {
     "type": "git",
-    "url": "git://github.com/macaca/macaca-doctor.git"
+    "url": "git://github.com/macacajs/macaca-doctor.git"
   },
   "dependencies": {
     "chalk": "~1.1.1",
