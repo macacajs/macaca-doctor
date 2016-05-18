@@ -1,6 +1,6 @@
 {
   "name": "macaca-doctor",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "macaca doctor",
   "keywords": [
     "doctor"
@@ -8,7 +8,7 @@
   "main": "./lib/macaca-doctor",
   "repository": {
     "type": "git",
-    "url": "git://github.com/xudafeng/macaca-doctor.git"
+    "url": "git://github.com/macaca/macaca-doctor.git"
   },
   "dependencies": {
     "chalk": "~1.1.1",
@@ -31,9 +31,6 @@
   "pre-commit": [
     "jshint"
   ],
-  "homepage": "https://github.com/xudafeng/macaca-doctor",
-  "author": "xudafeng",
-  "email": "xudafeng@126.com",
-  "blog": "http://xdf.me",
+  "homepage": "https://github.com/macacajs/macaca-doctor",
   "license": "MIT"
 }
