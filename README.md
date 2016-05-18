@@ -28,5 +28,6 @@ $ npm i macaca-doctor --save
 ## Quick Start
 
 ```bash
-$ macaca-doctor
+$ npm i macaca-cli -g
+$ macaca doctor
 ```
