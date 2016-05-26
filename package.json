@@ -1,9 +1,10 @@
 {
   "name": "macaca-doctor",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "macaca doctor",
   "keywords": [
-    "doctor"
+    "doctor",
+    "macaca"
   ],
   "main": "./lib/macaca-doctor",
   "repository": {
