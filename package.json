@@ -22,7 +22,7 @@
     "co-mocha": "*",
     "istanbul": "*",
     "jshint": "*",
-    "macaca-cli": "^1.0.34",
+    "macaca-cli": "^2.0.0",
     "mocha": "*",
     "pre-commit": "1.1.1",
     "should": "*"
