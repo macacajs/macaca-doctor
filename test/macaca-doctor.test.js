@@ -3,6 +3,7 @@
 var Doctor = require('../lib/macaca-doctor');
 
 describe('test', function() {
+
   it('should be ok', function() {
     Doctor.should.be.ok();
   });
@@ -11,4 +12,5 @@ describe('test', function() {
     var doctor = new Doctor();
     yield doctor.check();
   });
+
 });
