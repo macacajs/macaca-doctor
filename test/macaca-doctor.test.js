@@ -1,7 +1,7 @@
 'use strict';
 
 var Doctor = require('../lib/macaca-doctor');
-var DoctorIos = require('../lib/macaca-doctor/ios');
+var DoctorIos = require('../lib/ios');
 
 describe('test', function() {
 
@@ -16,7 +16,7 @@ describe('test', function() {
 
   it('ios check standalone should be ok', function *() {
     var version = yield DoctorIos.getXcodeVersion();
-    console.log(version);
+    version.should.be.ok();
   });
 
 });
