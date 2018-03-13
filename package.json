@@ -1,6 +1,6 @@
 {
   "name": "macaca-doctor",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "macaca doctor",
   "keywords": [
     "doctor",
@@ -15,6 +15,7 @@
     "co-request": "^1.0.0",
     "java-util": "~0.1.0",
     "macaca-utils": "^1.0.0",
+    "net-tools": "^1.0.0",
     "semver": "^5.3.0"
   },
   "devDependencies": {
