@@ -2,6 +2,7 @@ node_modules
 .travis.yml
 .jshintrc
 .jshintignore
+.nyc_output
 coverage/
 logs/
 test/
