@@ -43,3 +43,7 @@ $ macaca doctor
 This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto upated at `Tue May 01 2018 21:54:42 GMT+0800`.
 
 <!-- GITCONTRIBUTOR_END -->
+
+## License
+
+The MIT License (MIT)

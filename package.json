@@ -1,6 +1,6 @@
 {
   "name": "macaca-doctor",
-  "version": "2.0.13",
+  "version": "2.0.14",
   "description": "macaca doctor",
   "keywords": [
     "doctor",
@@ -21,14 +21,14 @@
   "devDependencies": {
     "co-mocha": "*",
     "git-contributor": "^1.0.8",
-    "istanbul": "*",
     "jshint": "*",
     "macaca-cli": "2",
     "mocha": "*",
+    "nyc": "^11.7.2",
     "pre-commit": "*"
   },
   "scripts": {
-    "test": "istanbul cover `npm bin`/_mocha",
+    "test": "nyc --reporter=lcov --reporter=text mocha",
     "lint": "jshint .",
     "ci": "npm run lint && npm run test",
     "contributor": "git-contributor"
