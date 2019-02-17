@@ -19,6 +19,18 @@
 
 > macaca doctor
 
+<!-- GITCONTRIBUTOR_START -->
+
+## Contributors
+
+|[<img src="https://avatars1.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|[<img src="https://avatars1.githubusercontent.com/u/1044425?v=4" width="100px;"/><br/><sub><b>ziczhu</b></sub>](https://github.com/ziczhu)<br/>|[<img src="https://avatars1.githubusercontent.com/u/17233599?v=4" width="100px;"/><br/><sub><b>Chan-Chun</b></sub>](https://github.com/Chan-Chun)<br/>|[<img src="https://avatars2.githubusercontent.com/u/9961514?v=4" width="100px;"/><br/><sub><b>limerickgds</b></sub>](https://github.com/limerickgds)<br/>|
+| :---: | :---: | :---: | :---: |
+
+
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Sun Feb 17 2019 19:10:05 GMT+0800`.
+
+<!-- GITCONTRIBUTOR_END -->
+
 ## Installment
 
 ```bash
@@ -32,18 +44,7 @@ $ npm i macaca-cli -g
 $ macaca doctor
 ```
 
-<!-- GITCONTRIBUTOR_START -->
-
-## Contributors
-
-|[<img src="https://avatars1.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|[<img src="https://avatars1.githubusercontent.com/u/1044425?v=4" width="100px;"/><br/><sub><b>ziczhu</b></sub>](https://github.com/ziczhu)<br/>|[<img src="https://avatars1.githubusercontent.com/u/17233599?v=4" width="100px;"/><br/><sub><b>Chan-Chun</b></sub>](https://github.com/Chan-Chun)<br/>|[<img src="https://avatars2.githubusercontent.com/u/9961514?v=4" width="100px;"/><br/><sub><b>limerickgds</b></sub>](https://github.com/limerickgds)<br/>
-| :---: | :---: | :---: | :---: |
-
-
-This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto upated at `Tue Sep 25 2018 11:46:03 GMT+0800`.
-
-<!-- GITCONTRIBUTOR_END -->
-
 ## License
 
 The MIT License (MIT)
+
